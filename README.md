@@ -1,7 +1,7 @@
 # Restaurant Data
 ## Restaurant Data Exercise
 <img src="restaurants.png" width='300'/>
-This exercise demonstrates the CRUD elements of GraphQL to query and update data (Create, Read, Update, and Delete). 
+This exercise demonstrates the four CRUD elements of GraphQL to query and update data (Create, Read, Update, and Delete). 
 <br></br>
 To run this on your machine you'll need Express and GraphQL. Download the index.js and .json files, open a terminal and type 
 npm install express express-graphql graphql --save. Then type node index.js and go to localhost:5500/graphql to be able to interface with GraphQL and submit queries.
